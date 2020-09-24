@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-servicebus
 Version  : 0.6.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/8f/bd/fdb9db085a1590ef13e683f3aa6462c6fe70fb1e61e69212017abe58b419/azure-mgmt-servicebus-0.6.0.zip
 Source0  : https://files.pythonhosted.org/packages/8f/bd/fdb9db085a1590ef13e683f3aa6462c6fe70fb1e61e69212017abe58b419/azure-mgmt-servicebus-0.6.0.zip
 Summary  : Microsoft Azure Service Bus Management Client Library for Python
